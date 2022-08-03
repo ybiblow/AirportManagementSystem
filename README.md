@@ -1,7 +1,7 @@
 ## Airport Management System
 Airport management system for airline companies, including managing, sorting and string information of flights, airports, times and dates using C, Linux and Visual Studio..
 
-##Screenshots
+## Screenshots
 <div align="center">
 <img
 src="https://github.com/ybiblow/AirportManagementSystem/blob/master/Pictures/Menu.png?raw=true" width="400" height="200">
